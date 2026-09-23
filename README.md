@@ -4,7 +4,7 @@ A two-source DC power system simulated in **Tinkercad Circuits**. A solar panel 
 
 The idea comes from how real grids work: a steady source (like a nuclear or thermal plant) holds the supply, and solar adds power whenever it can.
 
-🔗 **Tinkercad simulation:** [open the circuit](PASTE_YOUR_TINKERCAD_LINK_HERE) (Tinkercad login may be required)
+🔗 **Tinkercad simulation:** [open the circuit](https://www.tinkercad.com/things/k6qZcOtDjgk-solar-power) (Tinkercad login may be required)
 
 ![Circuit in Tinkercad](SolarMonitor.png)
 
